@@ -102,7 +102,7 @@ def checkAttendance(name):
             mode = 'r+' if os.path.exists(location) else 'a+'
             with open(location, mode) as f:
                 if mode == 'a+':
-                    f.write('Name,Class,Time,Date\n')
+                    f.write('Name,Class,Time,Date')
                 myDataList = f.readlines()
                 nameList = [entry.split(',')[0] for entry in myDataList]
                 if name in nameList:
@@ -114,7 +114,7 @@ def checkAttendance(name):
             mode = 'r+' if os.path.exists(writepath) else 'a+'
             with open(writepath, mode) as f:
                 if mode == 'a+':
-                    f.write('Name,Class,Time,Date\n')
+                    f.write('Name,Class,Time,Date')
                 myDataList = f.readlines()
                 nameList = [entry.split(',')[0] for entry in myDataList]
                 if name in nameList:
