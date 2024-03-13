@@ -36,3 +36,7 @@ Python provides several powerful packages that facilitate face recognition. Some
 5. **'Attendance Marked' Notify:** 'Attendance Marked' will be written on the window if the individual's attendance is already marked after checking into the database(CSV file).
 
 6. **Saving Attendance:** Attendance will be saved into a database(CSV file) with the Name, Class, and Date and Time of the attendance.
+
+`path` and `path2` variables are folders containing dataset you can change these variables or give directory path according to your requirements
+
+For saving both teacher and student attendance in a single CSV file the code is provided in `main.py`
