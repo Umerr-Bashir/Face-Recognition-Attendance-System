@@ -21,7 +21,7 @@ Python provides several powerful packages that facilitate face recognition. Some
 
 4. **Face Matching:** To differentiate between two faces, a distance or similarity metric is used to compare the face encodings generated in the previous step. Popular metrics include Euclidean distance or cosine similarity.
 
-![matching.jpg](matching.jpg)
+**![matching.jpg](matching.jpg)**
 
 ## Some Features of this Project
 
