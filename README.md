@@ -39,4 +39,4 @@ Python provides several powerful packages that facilitate face recognition. Some
 
 `path` and `path2` variables are folders containing dataset you can change these variables or give directory path according to your requirements
 
-For saving both teacher and student attendance in a single CSV file the code is provided in `main.py`
+**Note:** For saving both teacher and student attendance in a single CSV file the code is provided in `main.py`
