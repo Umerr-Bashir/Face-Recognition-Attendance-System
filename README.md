@@ -1,0 +1,6 @@
+Packages for Face Recognition will be Used:
+Python provides several powerful packages that facilitate face recognition. Some of the most popular ones we will be using.
+OpenCV: OpenCV is a versatile computer vision library that offers various face detection and recognition algorithms, such as Haar cascades and deep learning-based models.
+Face_recognition: This Python library is built on top of dlib and provides a simple API for face recognition tasks. It offers both face detection and recognition functionalities. I will be using Ageitgey's API for Python https://github.com/ageitgey/face_recognition
+Regular Expressions: With regex, you can define complex search patterns to match and extract specific parts of strings, validate input, or replace text based on certain criteria.
+NumPy: NumPy, short for Numerical Python, is a fundamental package in Python for scientific computing. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
