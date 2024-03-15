@@ -23,7 +23,7 @@ Python provides several powerful packages that facilitate face recognition. Some
 
 **![matching.jpg](matching.jpg)**
 
-### Click on the video below to watch: ###
+### Click on the video below to watch:
 
 **[![Face-Recognition Attendance System](https://img.youtube.com/vi/Q4FZrCs4z8E/0.jpg)](https://www.youtube.com/watch?v=Q4FZrCs4z8E)**
 
