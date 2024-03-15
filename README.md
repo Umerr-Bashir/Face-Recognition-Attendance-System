@@ -31,7 +31,7 @@ Python provides several powerful packages that facilitate face recognition. Some
 
 1. **Displays Name and Class:** After recognizing the face embeddings or facial features, it displays the name and class of the detected individual.
 
-2. **Marks Attendance after Fixed Frame Capture:** The attendance will be marked after satisfying the condition of frames captured (greater than or equal to 7) to avoid false positives or misidentification.
+2. **Marks Attendance after Fixed Frame Capture:** The attendance will be marked after satisfying the condition of frames captured (greater than or equal to 6) to avoid false positives or misidentification.
 
 3. **One Attendance at a time:** A Boolean variable will be used to avoid "duplicate attendance" or "double counting."
 
