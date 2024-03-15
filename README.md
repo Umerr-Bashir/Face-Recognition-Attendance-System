@@ -11,7 +11,7 @@ Python provides several powerful packages that facilitate face recognition. Some
 4. **NumPy:** NumPy, short for Numerical Python, is a fundamental package in Python for scientific computing. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
 
 
-### Let me give you an overview of the steps included in face recognition.
+## Let me give you an overview of the steps included in face recognition.
 
 1. **Face Detection:** The first step is to detect faces within an image or video frame. This can be done using algorithms like Haar cascades, HOG (Histogram of Oriented Gradients), etc.
 
