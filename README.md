@@ -23,6 +23,9 @@ Python provides several powerful packages that facilitate face recognition. Some
 
 **![matching.jpg](matching.jpg)**
 
+
+[![Face-Recognition Attendance System](https://img.youtube.com/vi/Q4FZrCs4z8E/0.jpg)](https://www.youtube.com/watch?v=Q4FZrCs4z8E)
+
 ## Some Features of this Project
 
 1. **Displays Name and Class:** After recognizing the face embeddings or facial features, it displays the name and class of the detected individual.
@@ -37,6 +40,11 @@ Python provides several powerful packages that facilitate face recognition. Some
 
 6. **Saving Attendance:** Attendance will be saved into a database(CSV file) with the Name, Class, and Date and Time of the attendance.
 
+![Eg1.jpg](Eg1.PNG)
+
+
+
 `path` and `path2` variables are folders containing dataset you can change these variables or give directory path according to your requirements
 
 **Note:** For saving both teacher and student attendance in a single CSV file the code is provided in `main.py`
+
