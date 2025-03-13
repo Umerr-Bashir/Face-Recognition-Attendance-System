@@ -49,3 +49,5 @@ Python provides several powerful packages that facilitate face recognition. Some
 
 **Note:** For saving both teacher and student attendance in a single CSV file the code is provided in `main.py`
 
+If you found it helpful a **Star ⭐** can me me smile 😊
+
